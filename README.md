@@ -1,13 +1,15 @@
 ![MasterHead](https://res.cloudinary.com/drk9fe53m/image/upload/v1722174059/fullstack_php_js_vz8plj.avif)
 <h1 align="center">Hi 👋, I'm Aswanth C P</h1>
-<h3 align="center">A passionate Python Fullstack developer from India</h3>
+<h3 align="center">A Passionate Python Fullstack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/twitter_username?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
 
 - 🔭 I’m currently working at **Covenant IT Solution**
 
 - 💬 Ask me about **Django, React, Python**
 
-- 📫 How to reach me: **cpaswanthvatakara@gmail.com**
+- 📫 How to reach me **cpaswanthvatakara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,10 +63,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswanthcp&show_icons=true&locale=en&layout=compact" alt="aswanthcp" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswanthcp&show_icons=true&locale=en&layout=compact" alt="aswanthcp" /></p>
