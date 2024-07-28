@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/drk9fe53m/image/upload/v1722174059/fullstack_php_js_vz8plj.avif)
+![MasterHead](https://res.cloudinary.com/drk9fe53m/image/upload/v1722177511/vantagens-do-framework-django-1024x325_onacrg.png)
 <h1 align="center">Hi 👋, I'm Aswanth C P</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
 
