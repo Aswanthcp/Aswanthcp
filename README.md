@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/drk9fe53m/image/upload/v1722174059/fullstack_php_js_vz8plj.avif)]
+![MasterHead](https://res.cloudinary.com/drk9fe53m/image/upload/v1722174059/fullstack_php_js_vz8plj.avif)
 <h1 align="center">Hi 👋, I'm Aswanth C P</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
