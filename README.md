@@ -2,7 +2,7 @@
 <hr />
 <h1 align="center">Hi 👋, I'm Aswanth C P</h1>
 <h3 align="center">A passionate Python Fullstack developer from India</h3>
-
+<hr />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div align="center">
